@@ -131,6 +131,13 @@ Possible future improvements include:
 
 ---
 
+## 📂 Project Files
+
+- [Arduino Irrigation Code](./code/smart_irrigation_arduino.ino)
+- [Complete Project Report](./Smart-Irrigation-Project-Report.pdf)
+
+---
+
 ## 📄 Project Report
 
 The complete project report is available here:
